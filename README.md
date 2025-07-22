@@ -1,17 +1,13 @@
-<!--
-  Ganti `Raditya-Arinanta` dengan username GitHub Anda jika berbeda
--->
 
-<!-- Profil Views Badge (tanpa tautan) -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Raditya-Arinanta&color=blue" alt="Profile views"/>
 </p>
 
-<!-- Judul & Deskripsi Singkat -->
+
 <h1 align="center">Hi 👋, I'm Radit Rajin Ngaji</h1>
 <h3 align="center">Junior Developer | Passionate about Web & Software Development</h3>
 
-<!-- Social Media Badges (tanpa tautan) -->
+
 <p align="center">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -53,9 +49,8 @@
 ---
 
 ## 📫 Contact Me
-- ✉️ Email: radittantra36@gmail.com  
-- 🔗 LinkedIn: YOUR_LINKEDIN  
-- 🌐 Portfolio: your-portfolio.com  
+- ✉️ Email: radityatantraarinanta@gmail.com  
+
 
 ---
 
