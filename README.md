@@ -4,7 +4,7 @@
 </p>
 
 
-<h1 align="center">Hi 👋, I'm Radit Rajin Ngaji</h1>
+<h1 align="center">Hi 👋, I'm Raditya Tantra Arinanta</h1>
 <h3 align="center">Junior Developer | Passionate about Web & Software Development</h3>
 
 
